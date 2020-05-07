@@ -2,14 +2,14 @@
 title: "Wave Propagation in Porous Media Saturated with Two Fluids"
 collection: publications
 permalink: /publication/2014-12-04-wave-propagation-in-porous-media
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'When it comes to geological storage of CO2, monitoring is crucial to detect leakage in the caprock. In our study, we investigated the wave speeds of porous media filled with CO2 and water in order to determine reservoir changes. We focused on deep storage sites where CO2 is in a supercritical state. In case of a leak, CO2 rises and eventually starts to boil as soon as it reaches temperatures or pressures below the critical point. At this point, there are two distinct phases in the pore space. We derived the necessary equations to calculate the wave speeds for unsaturated porous media and tested the equations for a representative storage scenario. We found that there are three modes of pressure waves instead of two for the saturated case. The new mode has a very small wave speed and is highly attenuated. This mode will most likely be very hard to detect in practice and therefore it may be necessary to use time-lapse seismic migration to detect leakage.'
 date: 2014-12-05
 venue: 'Transport in Porous Media'
 paperurl: 'http://dx.doi.org/10.1007/s11242-014-0424-2'
 citation: 'Boxberg, M. S., Prévost, J. H., and Tromp, J., 2015. Wave propagation in porous media saturated with
 two fluids. <i>Transp. Porous Med.</i>, 107(1):49-63. doi: 10.1007/s11242-014-0424-2.'
 ---
-This paper is about the investiation of wave speeds in porous media filled with CO2 and water for the monitoring of geological storage of CO2.
+When it comes to geological storage of CO2, monitoring is crucial to detect leakage in the caprock. In our study, we investigated the wave speeds of porous media filled with CO2 and water in order to determine reservoir changes. We focused on deep storage sites where CO2 is in a supercritical state. In case of a leak, CO2 rises and eventually starts to boil as soon as it reaches temperatures or pressures below the critical point. At this point, there are two distinct phases in the pore space. We derived the necessary equations to calculate the wave speeds for unsaturated porous media and tested the equations for a representative storage scenario. We found that there are three modes of pressure waves instead of two for the saturated case. The new mode has a very small wave speed and is highly attenuated. This mode will most likely be very hard to detect in practice and therefore it may be necessary to use time-lapse seismic migration to detect leakage.
 
 [Get paper here](http://dx.doi.org/10.1007/s11242-014-0424-2)
 
