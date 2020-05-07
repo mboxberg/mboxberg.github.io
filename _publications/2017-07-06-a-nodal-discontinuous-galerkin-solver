@@ -8,8 +8,7 @@ venue: 'Poromechanics VI'
 paperurl: 'http://dx.doi.org/10.1061/9780784480779.185'
 citation: 'Boxberg, M. S., Heuel, J., and Friederich, W., 2017. A nodal discontinuous galerkin solver for modeling
 seismic wave propagation in porous media. In Vandamme, M., Dangla, P., and Pereira, J.-M., editors,
-<i>Poromechanics VI</i>. American Society of Civil Engineers. doi: 10.1061/9780784480779.185.
-'
+<i>Poromechanics VI</i>. American Society of Civil Engineers. doi: 10.1061/9780784480779.185.'
 ---
 This paper is about a nodal discontinuous Galerkin scheme for solving the poroelastic wave equation for materials saturated by one or two immiscible fluids. The presented wave equation is based on Biot's theory and accounts for macroscopic flow. Using an example of a numerical simulation we show the existence of the third P-wave. The velocity and amplitude of this wave are significantly smaller than the velocities and amplitudes of the first and second P-wave. The numerical codes can be applied to various scientific questions related to unsaturated soils or rocks like exploration and monitoring of hydrocarbon or geothermal reservoirs or CO2 storage sites.
 
