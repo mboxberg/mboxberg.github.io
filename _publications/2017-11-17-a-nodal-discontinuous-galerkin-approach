@@ -1,0 +1,19 @@
+---
+title: "A nodal discontinuous Galerkin approach to 3-D viscoelastic wave propagation in complex geological media"
+collection: publications
+permalink: /publication/2017-11-17-a-nodal-discontinuous-galerkin-approach
+excerpt: 'A nodal discontinuous Galerkin (NDG) approach is developed and implemented for the computation of viscoelastic wavefields in complex geological media. The NDG approach combines unstructured tetrahedral meshes with an element-wise, high-order spatial interpolation of the wavefield based on Lagrange polynomials. Numerical fluxes are computed from an exact solution of the heterogeneous Riemann problem. Our implementation offers capabilities for modelling viscoelastic wave propagation in 1-D, 2-D and 3-D settings of very different spatial scale with little logistical overhead. It allows the import of external tetrahedral meshes provided by independent meshing software and can be run in a parallel computing environment. Computation of adjoint wavefields and an interface for the computation of waveform sensitivity kernels are offered. The method is validated in 2-D and 3-D by comparison to analytical solutions and results from a spectral element method. The capabilities of the NDG method are demonstrated through a 3-D example case taken from tunnel seismics which considers high-frequency elastic wave propagation around a curved underground tunnel cutting through inclined and faulted sedimentary strata. The NDG method was coded into the open-source software package NEXD and is available from GitHub.'
+date: 2017-11-15
+venue: 'Geophysical Journal International'
+paperurl: 'http://dx.doi.org/10.1093/gji/ggx494'
+citation: 'Lambrecht, L., Lamert, A., Friederich, W., Möller, T., and Boxberg, M. S., 2018. A nodal discontinuous
+Galerkin approach to 3-D viscoelastic wave propagation in complex geological media. <i>Geophysical Journal
+International</i>, 212(3):1570-1587. doi: 10.1093/gji/ggx494.'
+---
+A nodal discontinuous Galerkin (NDG) approach is developed and implemented for the computation of viscoelastic wavefields in complex geological media. The NDG approach combines unstructured tetrahedral meshes with an element-wise, high-order spatial interpolation of the wavefield based on Lagrange polynomials. Numerical fluxes are computed from an exact solution of the heterogeneous Riemann problem. Our implementation offers capabilities for modelling viscoelastic wave propagation in 1-D, 2-D and 3-D settings of very different spatial scale with little logistical overhead. It allows the import of external tetrahedral meshes provided by independent meshing software and can be run in a parallel computing environment. Computation of adjoint wavefields and an interface for the computation of waveform sensitivity kernels are offered. The method is validated in 2-D and 3-D by comparison to analytical solutions and results from a spectral element method. The capabilities of the NDG method are demonstrated through a 3-D example case taken from tunnel seismics which considers high-frequency elastic wave propagation around a curved underground tunnel cutting through inclined and faulted sedimentary strata. The NDG method was coded into the open-source software package NEXD and is available from GitHub.
+
+[Get paper here](http://dx.doi.org/10.1061/9780784480779.185)
+
+Recommended citation: Lambrecht, L., Lamert, A., Friederich, W., Möller, T., and Boxberg, M. S., 2018. A nodal discontinuous
+Galerkin approach to 3-D viscoelastic wave propagation in complex geological media. <i>Geophysical Journal
+International</i>, 212(3):1570-1587. doi: 10.1093/gji/ggx494.
