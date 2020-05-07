@@ -11,30 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Geophysics, Ruhr-Universität Bochum, 2019
+* M.S. in Earth Science majoring in Geophysics, Ruhr-Universität Bochum, 2013
+* B.S. in Earth Science, Ruhr-Universität Bochum, 2011
 
-Work experience
+Professional Career
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* since 01/2020: Postdoctoral researcher
+  * RWTH Aachen University, Aachen, Germany
+  * AICES and Faculty of Georessouces and Materials Engineering
+  * Advisor: Professor Julia Kowalski
+* 01/2014 – 12/2019: Doctoral student
+  * Ruhr-Universität Bochum, Germany
+  * Institute of Geology, Mineralogy and Geophysics
+  * Supervisor: Professor Wolfgang Friederich
+* 11/2013 – 03/2014: Museum Guide
+  * Deutsches Bergbau-Museum, Bochum, Germany
+* 06/2013 – 08/2013: Summer Intern
+  * Princeton University, NJ, USA
+  * Department of Civil and Environmental Engineering, 
+  * Supervisor: Professor Jean H. Prévost, Professor Jeroen Tromp
+* 04/2012 – 12/2013: Research Assistent
+  * Ruhr-Universität Bochum, Germany
+  * Institute of Geology, Mineralogy and Geophysics
+* 10/2011 – 03/2012: Working Student
+  * E.ON Gas Storage GmbH, Essen, Germany
+* 08/2011 – 10/2011: Visiting Fellow
+  * Australian National University, Canberra, Australia
+  * Research School of Earth Sciences
+  * Supervisor: Dr. Giampiero Iaffaldano
+* 04/2010 – 06/2011: Working Student
+  * E.ON Gas Storage GmbH, Essen, Germany
+* 08/2008 – 10/2008: Intern
+  * Dr. Spang GmbH, Witten, Germany
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computing
+  * Fortran
+  * Python
+  * Matlab
+  * LaTeX
+  * Git version control
+* Languages
+  * German (native)
+  * English (fluent)
+  * Swedish (fair)
 
 Publications
 ======
@@ -53,7 +75,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
