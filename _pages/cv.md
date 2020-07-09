@@ -17,6 +17,8 @@ Education
 
 Professional Career
 ======
+* since 07/2020: Guest scientist
+  * Georg-August-Universität, Göttingen, Germany: Geoscience Center
 * since 01/2020: Postdoctoral researcher
   * RWTH Aachen University, Aachen, Germany: AICES and Faculty of Georessouces and Materials Engineering
   * Advisor: Professor Julia Kowalski
