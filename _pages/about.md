@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a geophysicist working on wave propagation phenomena. My main interests are numerical modelling of (seismic) wave propagation in porous media, computational seismology, geophysical inverse problems like full waveform inversion and traveltime tomography, and the exploration of icy moons in our solar system.
+I am a geophysicist interested in icy moon exploration and wave propagation phenomena. This includes numerical modelling of (seismic) wave propagation in porous media, computational seismology, geophysical inverse problems like full waveform inversion and traveltime tomography, as well as trajectory models of ice melting probes.
 
-Currently I'm working at the RWTH Aachen University and I am the coordinator of the project EnEx – WISE: An intelligent, thermo-fluiddynamical Water-Ice Simulation Environment to support autonomous ice exploration.
+Currently, I am working at the RWTH Aachen University and I am the coordinator of the project EnEx – WISE: An intelligent, thermo-fluiddynamical Water-Ice Simulation Environment to support autonomous ice exploration. In addition, I am a guest scientist at Georg-August-Universität Göttingen.
