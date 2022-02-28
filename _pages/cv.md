@@ -17,11 +17,11 @@ Education
 
 Professional Career
 ======
-* since 07/2020: Guest scientist
-  * Georg-August-Universität, Göttingen, Germany: Geoscience Center
 * since 01/2020: Postdoctoral researcher
-  * RWTH Aachen University, Aachen, Germany: AICES and Faculty of Georessouces and Materials Engineering
+  * RWTH Aachen University, Aachen, Germany: Faculty of Mechanical Engineering and Faculty of Georessouces and Materials Engineering
   * Advisor: Professor Julia Kowalski
+* 07/2020 – 12/2021: Guest scientist
+  * Georg-August-Universität, Göttingen, Germany: Geoscience Center
 * 01/2014 – 12/2019: Doctoral student
   * Ruhr-Universität Bochum, Germany: Institute of Geology, Mineralogy and Geophysics
   * Supervisor: Professor Wolfgang Friederich
