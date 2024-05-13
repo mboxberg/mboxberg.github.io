@@ -1,0 +1,13 @@
+---
+title: "Ice Melting Probes"
+collection: publications
+excerpt: 'The exploration of icy environments in the solar system, such as the poles of Mars and the icy moons (a.k.a. 
+ocean worlds), is a key aspect for understanding their astrobiological potential as well as for extraterrestrial 
+resource inspection. On these worlds, ice melting probes are considered to be well suited for the robotic clean 
+execution of such missions. In this chapter, we describe ice melting probes and their applications, the physics of ...'
+date: 2023-04-28
+venue: 'Handbook of Space Resources'
+paperurl: 'https://doi.org/10.1007/978-3-030-97913-3_29'
+citation: 'Dachwald, B., Ulamec, S., Kowalski, J., Boxberg, M.S., Baader, F., Biele, J., and Kömle, N., 2023. Ice Melting Probes. In: Badescu, V., Zacny, K., Bar-Cohen, Y. (eds) Handbook of Space Resources. Springer, Cham. doi: 10.1007/978-3-030-97913-3_29.'
+---
+The exploration of icy environments in the solar system, such as the poles of Mars and the icy moons (a.k.a. ocean worlds), is a key aspect for understanding their astrobiological potential as well as for extraterrestrial resource inspection. On these worlds, ice melting probes are considered to be well suited for the robotic clean execution of such missions. In this chapter, we describe ice melting probes and their applications, the physics of ice melting and how the melting behavior can be modeled and simulated numerically, the challenges for ice melting, and the required key technologies to deal with those challenges. We also give an overview of existing ice melting probes and report some results and lessons learned from laboratory and field tests.

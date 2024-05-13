@@ -1,0 +1,17 @@
+---
+title: 'Field-test performance of an ice-melting probe in a terrestrial analogue environment'
+collection: publications
+excerpt: "Melting probes are a proven tool for the exploration of thick ice layers and clean sampling of subglacial 
+water on Earth. Their compact size and ease of operation also make them a key technology for the future exploration of 
+icy moons in our Solar System, most prominently Europa and Enceladus. For both mission planning and hardware 
+engineering, metrics such as efficiency and expected performance in terms of achievable speed, power requirements, ..."
+date: 2023-11-10
+venue: 'Icarus'
+paperurl: 'https://doi.org/10.1016/j.icarus.2023.115852'
+citation: 'Baader, F., Boxberg, M.S., Chen, Q., Förstner, R., Kowalski, J. and Dachwald, B., 2024. Field-test performance of an ice-melting probe in a terrestrial analogue environment. Icarus, 409:115852. doi: 10.1016/j.icarus.2023.115852.'
+---
+Melting probes are a proven tool for the exploration of thick ice layers and clean sampling of subglacial water on Earth. Their compact size and ease of operation also make them a key technology for the future exploration of icy moons in our Solar System, most prominently Europa and Enceladus. For both mission planning and hardware engineering, metrics such as efficiency and expected performance in terms of achievable speed, power requirements, and necessary heating power have to be known.
+
+Theoretical studies aim at describing thermal losses on the one hand, while laboratory experiments and field tests allow an empirical investigation of the true performance on the other hand. To investigate the practical value of a performance model for the operational performance in extraterrestrial environments, we first contrast measured data from terrestrial field tests on temperate and polythermal glaciers with results from basic heat loss models and a melt trajectory model. For this purpose, we propose conventions for the determination of two different efficiencies that can be applied to both measured data and models. One definition of efficiency is related to the melting head only, while the other definition considers the melting probe as a whole. We also present methods to combine several sources of heat loss for probes with a circular cross-section, and to translate the geometry of probes with a non-circular cross-section to analyse them in the same way. The models were selected in a way that minimizes the need to make assumptions about unknown parameters of the probe or the ice environment.
+
+The results indicate that currently used models do not yet reliably reproduce the performance of a probe under realistic conditions. Melting velocities and efficiencies are constantly overestimated by 15 to 50 % in the models, but qualitatively agree with the field test data. Hence, losses are observed, that are not yet covered and quantified by the available loss models. We find that the deviation increases with decreasing ice temperature. We suspect that this mismatch is mainly due to the too restrictive idealization of the probe model and the fact that the probe was not operated in an efficiency-optimized manner during the field tests. With respect to space mission engineering, we find that performance and efficiency models must be used with caution in unknown ice environments, as various ice parameters have a significant effect on the melting process. Some of these are difficult to estimate from afar.

@@ -1,0 +1,14 @@
+---
+title: 'Ice Transit and Performance Analysis for Cryorobotiv Subglacial Access Missions on Earth and Europa'
+collection: publications
+excerpt: "Ice-covered ocean worlds, such as the Jovian moon Europa, are some of the prime targets for planetary 
+exploration due to their high astrobiological potential. While upcoming space exploration missions, such as the Europa 
+Clipper and JUICE missions, will give us further insight into the local cryoenvironment, any conclusive life detection 
+investigation requires the capability to penetrate and transit the icy shell and access the subglacial ocean directly. 
+..."
+date: 2023-11-10
+venue: 'Astrobiology'
+paperurl: 'http://dx.doi.org/10.1089/ast.2021.0071'
+citation: 'Boxberg, M.S., Chen, Q., Pleas, A.-C., and Kowalski, J., 2023. Ice Transit and Performance Analysis for Cryorobotic Subglacial Access Missions on Earth and Europa. Astrobiology, 23(11):1135-1152. doi: 10.1089/ast.2021.0071.'
+---
+Ice-covered ocean worlds, such as the Jovian moon Europa, are some of the prime targets for planetary exploration due to their high astrobiological potential. While upcoming space exploration missions, such as the Europa Clipper and JUICE missions, will give us further insight into the local cryoenvironment, any conclusive life detection investigation requires the capability to penetrate and transit the icy shell and access the subglacial ocean directly. Developing robust, autonomous cryorobotic technology for such a mission constitutes an extremely demanding multistakeholder challenge and requires a concentrated interdisciplinary effort between engineers, geoscientists, and astrobiologists. An important tool with which to foster cross-disciplinary work at an early stage of mission preparation is the virtual testbed. In this article, we report on recent progress in the development of an ice transit and performance model for later integration in such a virtual testbed. We introduce a trajectory model that, for the first time, allows for the evaluation of mission-critical parameters, such as transit time and average/overall power supply. Our workflow is applied to selected, existing cryobot designs while taking into consideration different terrestrial, as well as extraterrestrial, deployment scenarios. Specific analyses presented in this study show the tradeoff minimum transit time and maximum efficiency of a cryobot and allow for quantification of different sources of uncertainty to cryobot's trajectory models.
